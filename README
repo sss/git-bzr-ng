@@ -1,0 +1,16 @@
+git-bzr-ng
+==========
+
+bi-directional git to bzr bridge
+
+
+About this repository
+---------------------
+
+  upstream/*: (branches, tags)
+    From git://github.com/termie/git-bzr-ng.git
+
+  git-bzr-pack: (branch)
+    Implement "git bzr pack",
+    which is a wrapper for "bzr pack" to internal bzr repository.
+
